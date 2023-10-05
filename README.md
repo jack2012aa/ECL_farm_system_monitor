@@ -20,3 +20,6 @@ At the beginning, I constructed the server in `lab` and let `farm` apps send mes
 
 ## To Do
 * A common interface for those devices tested through IP ping.
+
+## Author 
+Chang-Yu Huang
